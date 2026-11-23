@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Nikolaieva7/Nikolaieva7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  Я [Nikolaieva] 👋
 
-Here are some ideas to get you started:
+**Trainee / Junior Frontend Developer** з України.
+Створюю адаптивні та доступні сайти, зараз поглиблюю JavaScript і вивчаю React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Технології
+**Працюю з:** HTML5 · CSS3 · JavaScript (ES6+) · Git / GitHub · адаптивна верстка · a11y
+**Вивчаю зараз:** асинхронний JS і робота з API · TypeScript · React
+
+## 🚀 Проєкти
+| Проєкт | Опис | Демо |
+|---|---|---|
+| [teta](https://github.com/Nikolaieva7/teta) | Сайт-візитка для практика: акції з JSON, галерея зі свайпом, відео, форма з валідацією | [переглянути](https://nikolaieva7.github.io/teta/) |
+
+## 📫 Контакти
+- Email: [твоя@пошта.com](mailto:nikouman@ukr.net)
+- Telegram: [@нік](https://t.me/@Nikolaieva9)
