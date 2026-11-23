@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#  Я [Nikolaieva] 👋
+#  Я Nikolaieva 👋
 
 **Trainee / Junior Frontend Developer** з України.
 Створюю адаптивні та доступні сайти, зараз поглиблюю JavaScript і вивчаю React.
