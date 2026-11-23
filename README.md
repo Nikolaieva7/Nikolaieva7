@@ -15,5 +15,5 @@
 | [teta](https://github.com/Nikolaieva7/teta) | Сайт-візитка для практика: акції з JSON, галерея зі свайпом, відео, форма з валідацією | [переглянути](https://nikolaieva7.github.io/teta/) |
 
 ## 📫 Контакти
-- Email: [твоя@пошта.com](mailto:nikouman@ukr.net)
-- Telegram: [@нік](https://t.me/@Nikolaieva9)
+- Email: mailto:nikouman@ukr.net
+- Telegram: https://t.me/@Nikolaieva9
