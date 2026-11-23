@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#  Я Nikolaieva 👋
+#  Я Олена 👋
 
 **Trainee / Junior Frontend Developer** з України.
 Створюю адаптивні та доступні сайти, зараз поглиблюю JavaScript і вивчаю React.
@@ -15,5 +15,5 @@
 | [teta](https://github.com/Nikolaieva7/teta) | Сайт-візитка для практика: акції з JSON, галерея зі свайпом, відео, форма з валідацією | [переглянути](https://nikolaieva7.github.io/teta/) |
 
 ## 📫 Контакти
-- Email: mailto:nikouman@ukr.net
-- Telegram: https://t.me/@Nikolaieva9
+- Email: [nikouman@ukr.net](mailto:nikouman@ukr.net)
+- Telegram: [@Nikolaieva9](https://t.me/Nikolaieva9)
